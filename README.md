@@ -64,9 +64,9 @@ Steps From [Tutorial](tutorials/README.md):
 
 ## Authors
 
-- Paul Kenjora (kenjora@google.com) - Technical Project Lead
-- Mauricio Desiderio (mauriciod@google.com) - Software Engineer
-- John Terwilleger (terwilleger@google.com) - Software Engineer
+- Paul Kenjora (kenjora@google.com) - Engineering Project Lead - [LinkedIn](https://www.linkedin.com/in/pkenjora/)
+- Mauricio Desiderio (mauriciod@google.com) - Software Engineer - [LinkedIn](https://www.linkedin.com/in/mauricio-desiderio-3482054/)
+- John Terwilleger (terwilleger@google.com) - Software Engineer - [LinkedIn](https://www.linkedin.com/in/johnterwilleger/)
 
 Additional contributors to individual handlers and recipes are listed in each file.
 
